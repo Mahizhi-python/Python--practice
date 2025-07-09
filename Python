@@ -1,0 +1,5 @@
+age=10
+_age=10
+print (age)
+print(_age)
+10
