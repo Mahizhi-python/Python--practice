@@ -1,0 +1,17 @@
+age=10
+print(age)
+_age=10
+print(_age)
+first_value=21
+print(first_value)
+value1=5
+print (value1)
+abc511=511
+print (abc511)
+m=10
+M=10
+print(m)
+c=5
+m=11
+print (c)
+print (m)
